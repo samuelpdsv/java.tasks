@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA02.iml" filepath="$PROJECT_DIR$/.idea/JAVA02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loianeExer/loianeExer.iml" filepath="$PROJECT_DIR$/loianeExer/loianeExer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loianeExer02/loianeExer02.iml" filepath="$PROJECT_DIR$/loianeExer02/loianeExer02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loianeExer03/loianeExer03.iml" filepath="$PROJECT_DIR$/loianeExer03/loianeExer03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loianeExer04/loianeExer04.iml" filepath="$PROJECT_DIR$/loianeExer04/loianeExer04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedrianaExer/pedrianaExer.iml" filepath="$PROJECT_DIR$/pedrianaExer/pedrianaExer.iml" />
+    </modules>
+  </component>
+</project>
